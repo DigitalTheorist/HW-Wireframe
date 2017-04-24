@@ -2,6 +2,7 @@ body{
   font-size: 18px;
   font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
   text-align: center;
+  color: #777;
 }
 
 #body {
@@ -41,18 +42,21 @@ body{
 #article {
   padding: 20px;
   background-color: #777;
+  color: #ebebeb;
 }
 
 #hclasses {
   padding: 20px;
   margin: 5px;
   background-color: #ebebeb;
+  color: #777
 }
 
 #paragraph {
   padding: 20px;
   margin: 5px;
   background-color: #ebebeb;
+  color: #777
 }
 
 #aside {
