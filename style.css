@@ -34,10 +34,11 @@ body{
 #section {
   display: inline-block;
   position: relative;
-  right: 164px;
+  right: 211px;
+  bottom: 20px;
   padding: 10px;
-  width: 595px;
-  margin: 10px;
+  width: 495px;
+  margin: 50px;
   background-color: #ebebeb;
 }
 
@@ -64,16 +65,16 @@ body{
 #aside {
   position: relative;
   display: inline-block;
-  width: 375px;
-  height: 426px;
-  bottom: 436px;
-  left: 342px;
+  width: 458px;
+  height: 428px;
+  bottom: 497px;
+  left: 299px;
   background-color: #ebebeb;
 }
 
 #footer {
   position: relative;
-  bottom: 430px;
+  bottom: 485px;
   padding: 20px;
   margin: 10px;
   width: 100%;
